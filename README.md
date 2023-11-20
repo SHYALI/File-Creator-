@@ -13,5 +13,5 @@ Make sure you have a C++ compiler installed on your system. You can use a tool l
    ```bash
    git clone https://github.com/SHYALI/File-Creator.git
 
-![Screenshot](https://github.com/SHYALI/File-Creator/eg.png)
+![Screenshot](https://github.com/SHYALI/File-Creator-/blob/master/eg.png)
 
